@@ -5,7 +5,7 @@ I for some reason found interesting and decided to pursue a bit.
 My process is typically:
 
   - Find something interesting somewhere.  Hacker news, mainstream news,
-    SoMe somewhere, something mentioned in passing in conversation, whatever.
+    SoMe, something mentioned in passing in conversation, whatever.
   - Formulate, either by typing or dictating, a set of impressions and questions
     that intrigued me about the interesting thing.   Then ask one of
     several AIs (Claude, Chatgpt, Kimi2, Perplexity, Gemini  is a non-exhausting
