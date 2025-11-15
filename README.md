@@ -23,9 +23,10 @@ My process is typically:
     and that whatever they are claimed to support/ground in the note
     is actually something the article says something about.
 
-... so then i get a note, a few pages long, in a style that is fit for
-me to remember why I found this thing intriguing.  If this helps
-others to do the same then I am happy.  If not, then I would of course
-like to hear about possible improvements. I will take every suggestion
-very seriously and try to implement every reasonable suggestion. But
-also: This may not be for everyone, and I am fine with that too.
+... so then i get a note, a few to a few tens of pages long, in a
+style that is fit for me to remember why I found this thing
+intriguing.  If this helps others to do the same then I am happy.  If
+not, then I would of course like to hear about possible
+improvements. I will take every suggestion very seriously and try to
+implement every reasonable suggestion. But also: This may not be for
+everyone, and I am fine with that too.
