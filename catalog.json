@@ -396,6 +396,44 @@
       "date": "2025-11-16",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2025-11-16-21:47:29"
+    },
+    {
+      "slug": "symmetry-in-software-platforms-as-an-architectural-principle",
+      "title": "Symmetry in Software Platforms as an Architectural Principle",
+      "report_dir": "external-arxiv",
+      "pdf": "symmetry-in-software-platforms-as-an-architectural-principle.pdf",
+      "arxiv_url": "https://arxiv.org/abs/2510.20389v1",
+      "summary": "An argument that software platform robustness can be framed as a symmetry problem, where structural invariants in interfaces and behavior drive architectural stability.",
+      "themes": [
+        "Software Architecture",
+        "Software Engineering",
+        "Platforms",
+        "Systems Design"
+      ],
+      "order": 220,
+      "published": true,
+      "date": "2025-10-23",
+      "date_source": "arxiv_published",
+      "date_evidence": "https://arxiv.org/abs/2510.20389v1 (published 2025-10-23T09:38:32Z)"
+    },
+    {
+      "slug": "muon-optimizer-accelerates-grokking",
+      "title": "Muon Optimizer Accelerates Grokking",
+      "report_dir": "external-arxiv",
+      "pdf": "muon-optimizer-accelerates-grokking.pdf",
+      "arxiv_url": "https://arxiv.org/abs/2504.16041v1",
+      "summary": "An empirical study showing Muon can accelerate the onset of grokking relative to AdamW across modular arithmetic tasks in Transformer training.",
+      "themes": [
+        "Machine Learning",
+        "Optimization",
+        "Transformers",
+        "Generalization"
+      ],
+      "order": 230,
+      "published": true,
+      "date": "2025-04-22",
+      "date_source": "arxiv_published",
+      "date_evidence": "https://arxiv.org/abs/2504.16041v1 (published 2025-04-22T17:08:09Z)"
     }
   ]
 }

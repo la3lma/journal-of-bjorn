@@ -20,9 +20,9 @@ Why the formal format? Quite simply, I like how papers read. It helps me organiz
 
 **A Note on Quality**
 
-These are snapshots of what I found fascinating on any given day. They haven't been vetted, and because they are AI-augmented, they may contain hallucinations or errors. Think of them as intellectual artifacts rather than absolute truths.
+These are snapshots of what I found fascinating on any given day. They haven't been vetted, and because they are AI-augmented, they may contain hallucinations or errors. Think of them as intellectual artifacts rather than absolute truths. The dates are not very precise. They represent a best guess based on incomplete information about when the document was created. As a general rule, it was created at or before the date listed, but probably ot in every case.
 
-These entries are now largely back-dated, but if something sparks your interest, or if you spot a mistake, I'd be delighted to talk. I wrote these because I care about these topics, and I'd love to find others who do too.
+If something sparks your interest, or if you spot a mistake, I'd be delighted to talk. I wrote these because I care about these topics, and I'd love to find others who do too.
 
 **A Note on the "Ø"**
 
@@ -134,6 +134,28 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
     [AI Policy](themes/ai-policy.md){ .theme-chip } [Norway](themes/norway.md){ .theme-chip } [Sovereignty](themes/sovereignty.md){ .theme-chip } [Strategy](themes/strategy.md){ .theme-chip }
 
     [Open Page](papers/the-nansen-mission.md) · [Open PDF](pdf/the-nansen-mission.pdf) · <a href="pdf/the-nansen-mission.pdf" download>Download</a>
+
+-   [![Symmetry in Software Platforms as an Architectural Principle preview](assets/thumbs/symmetry-in-software-platforms-as-an-architectural-principle.png)](papers/symmetry-in-software-platforms-as-an-architectural-principle.md)
+    **[Symmetry in Software Platforms as an Architectural Principle](papers/symmetry-in-software-platforms-as-an-architectural-principle.md)**
+
+    An argument that software platform robustness can be framed as a symmetry problem, where structural invariants in interfaces and behavior drive architectural stability.
+
+    *Date: 2025-10-23*
+
+    [Software Architecture](themes/software-architecture.md){ .theme-chip } [Software Engineering](themes/software-engineering.md){ .theme-chip } [Platforms](themes/platforms.md){ .theme-chip } [Systems Design](themes/systems-design.md){ .theme-chip }
+
+    [Open Page](papers/symmetry-in-software-platforms-as-an-architectural-principle.md) · [Open PDF](pdf/symmetry-in-software-platforms-as-an-architectural-principle.pdf) · <a href="pdf/symmetry-in-software-platforms-as-an-architectural-principle.pdf" download>Download</a> · [arXiv](https://arxiv.org/abs/2510.20389v1)
+
+-   [![Muon Optimizer Accelerates Grokking preview](assets/thumbs/muon-optimizer-accelerates-grokking.png)](papers/muon-optimizer-accelerates-grokking.md)
+    **[Muon Optimizer Accelerates Grokking](papers/muon-optimizer-accelerates-grokking.md)**
+
+    An empirical study showing Muon can accelerate the onset of grokking relative to AdamW across modular arithmetic tasks in Transformer training.
+
+    *Date: 2025-04-22*
+
+    [Machine Learning](themes/machine-learning.md){ .theme-chip } [Optimization](themes/optimization.md){ .theme-chip } [Transformers](themes/transformers.md){ .theme-chip } [Generalization](themes/generalization.md){ .theme-chip }
+
+    [Open Page](papers/muon-optimizer-accelerates-grokking.md) · [Open PDF](pdf/muon-optimizer-accelerates-grokking.pdf) · <a href="pdf/muon-optimizer-accelerates-grokking.pdf" download>Download</a> · [arXiv](https://arxiv.org/abs/2504.16041v1)
 
 </div>
 

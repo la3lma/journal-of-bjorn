@@ -67,6 +67,7 @@ Each paper entry supports:
 - `slug` (required): URL/page name
 - `summary` (required)
 - `themes` (optional): list of tags/chips
+- `arxiv_url` (optional): link to the arXiv abstract page
 - `date` (optional, recommended): `YYYY-MM-DD` or `YYYY-MM`
 - `date_source` (optional): where the date came from (`latex_version_file`, `latex_date_command`, `git_first_commit`)
 - `date_evidence` (optional): source snippet used for extraction
