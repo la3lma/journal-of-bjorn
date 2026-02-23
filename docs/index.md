@@ -20,7 +20,7 @@ Why the formal format? Quite simply, I like how papers read. It helps me organiz
 
 **A Note on Quality**
 
-These are snapshots of what I found fascinating on any given day. They haven't been vetted, and because they are AI-augmented, they may contain hallucinations or errors. Think of them as intellectual artifacts rather than absolute truths. The dates are not very precise. They represent a best guess based on incomplete information about when the document was created. As a general rule, it was created at or before the date listed, but probably ot in every case.
+These are snapshots of what I found fascinating on any given day. They haven't been vetted, and because they are AI-augmented, they may contain hallucinations or errors. Think of them as intellectual artifacts rather than absolute truths. The dates are not very precise. They represent a best guess based on incomplete information about when the document was created. As a general rule, it was created at or before the date listed, but probably not in every case.
 
 If something sparks your interest, or if you spot a mistake, I'd be delighted to talk. I wrote these because I care about these topics, and I'd love to find others who do too.
 
