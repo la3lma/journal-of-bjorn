@@ -135,6 +135,17 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     [Open Page](papers/the-nansen-mission.md) · [Open PDF](pdf/the-nansen-mission.pdf) · <a href="pdf/the-nansen-mission.pdf" download>Download</a>
 
+-   [![The Barista Paradox preview](assets/thumbs/the-barista-connection.png)](papers/the-barista-connection.md)
+    **[The Barista Paradox](papers/the-barista-connection.md)**
+
+    A short history of physical AI through the robot-barista lens, tracking the gap between language competence and embodied execution from the Wozniak test to current systems.
+
+    *Date: 2026-02-23*
+
+    [Robotics](themes/robotics.md){ .theme-chip } [Embodied AI](themes/embodied-ai.md){ .theme-chip } [Physical Intelligence](themes/physical-intelligence.md){ .theme-chip } [AI History](themes/ai-history.md){ .theme-chip }
+
+    [Open Page](papers/the-barista-connection.md) · [Open PDF](pdf/the-barista-connection.pdf) · <a href="pdf/the-barista-connection.pdf" download>Download</a>
+
 -   [![Symmetry in Software Platforms as an Architectural Principle preview](assets/thumbs/symmetry-in-software-platforms-as-an-architectural-principle.png)](papers/symmetry-in-software-platforms-as-an-architectural-principle.md)
     **[Symmetry in Software Platforms as an Architectural Principle](papers/symmetry-in-software-platforms-as-an-architectural-principle.md)**
 

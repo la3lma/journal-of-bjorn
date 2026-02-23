@@ -398,6 +398,24 @@
       "date_evidence": "version.tex: 2025-11-16-21:47:29"
     },
     {
+      "slug": "the-barista-connection",
+      "title": "The Barista Paradox",
+      "report_dir": "the-barista-connection",
+      "pdf": "the-barista-connection.pdf",
+      "summary": "A short history of physical AI through the robot-barista lens, tracking the gap between language competence and embodied execution from the Wozniak test to current systems.",
+      "themes": [
+        "Robotics",
+        "Embodied AI",
+        "Physical Intelligence",
+        "AI History"
+      ],
+      "order": 215,
+      "published": true,
+      "date": "2026-02-23",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-02-23-15:34:20"
+    },
+    {
       "slug": "symmetry-in-software-platforms-as-an-architectural-principle",
       "title": "Symmetry in Software Platforms as an Architectural Principle",
       "report_dir": "external-arxiv",
