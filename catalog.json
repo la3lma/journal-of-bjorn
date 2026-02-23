@@ -1,0 +1,401 @@
+{
+  "site": {
+    "title": "Journal of Bjorn",
+    "tagline": "Structured access to full-text PDFs",
+    "intro": "A growing collection of research notes and essays. Each entry includes a short summary, themes, and direct PDF access.",
+    "welcome": {
+      "title": "Welcome to My Journal",
+      "subtitle": "I'm Bjorn, and this is a record of my curiosity.",
+      "disclaimer": "Before you dive in, a quick disclaimer: this is a journal in the personal sense, not a scientific one. While I've chosen a formal, academic layout for these entries, they are essentially extended diary notes rather than peer-reviewed research.",
+      "process_intro": "Why the formal format? Quite simply, I like how papers read. It helps me organize my thoughts. My process usually looks like this:",
+      "process_steps": [
+        "I get obsessed with a topic.",
+        "I dive into a rabbit hole using Google and AI assistants.",
+        "I synthesize those dialogues into the short papers you see here."
+      ],
+      "quality_title": "A Note on Quality",
+	"quality_text": "These are snapshots of what I found fascinating on any given day. They haven't been vetted, and because they are AI-augmented, they may contain hallucinations or errors. Think of them as intellectual artifacts rather than absolute truths. The dates are not very precise. They represent a best guess based on incomplete information about when the document was created. As a general rule, it was created at or before the date listed, but probably ot in every case.",
+      "closing": "These entries are now largely back-dated, but if something sparks your interest, or if you spot a mistake, I'd be delighted to talk. I wrote these because I care about these topics, and I'd love to find others who do too.",
+      "note_oe_title": "A Note on the \"Ø\"",
+      "note_oe_text": "One last thing: You might see me toggle between Bjørn and Bjorn. I have no desire to create typographical hurdles for those of you without a Norwegian keyboard. Ever since the legendary Björn Borg made the \"Bjorn\" pronunciation an international standard, the simplified version has become essentially inescapable anyway, so I've decided to just lean into it. Call me Bjørn, call me Bjorn—I will answer, and I will love you in any case."
+    }
+  },
+  "papers": [
+    {
+      "slug": "abstraction-as-simplification",
+      "title": "Abstraction as Simplification",
+      "report_dir": "possible-simplifications-in-robotics",
+      "pdf": "abstraction-as-simplification.pdf",
+      "summary": "A focused essay on how better abstractions can reduce complexity in embodied AI and robotics pipelines.",
+      "themes": [
+        "Robotics",
+        "Embodied AI",
+        "Representation",
+        "Systems Design"
+      ],
+      "order": 10,
+      "published": true,
+      "date": "2025-11-20",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-20-10:19:36"
+    },
+    {
+      "slug": "algorithmic-screening-a-concept-note",
+      "title": "Algorithmic Screening: A Concept Note",
+      "report_dir": "algorithmic-screening-as-algorighmic-drug-discovery",
+      "pdf": "algorithmic_screening_a_concept_note.pdf",
+      "summary": "A concept framing of algorithmic screening as a computational pathway for drug discovery.",
+      "themes": [
+        "Drug Discovery",
+        "AI",
+        "Computation",
+        "Biomedicine"
+      ],
+      "order": 20,
+      "published": true,
+      "date": "2025-11-20",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-20-14:43:45"
+    },
+    {
+      "slug": "ai-guided-weapons-and-ethical-challenges",
+      "title": "AI-Guided Weapons and Ethical Challenges",
+      "report_dir": "autonomous-weapons-ethical-challenges-and-strategic-perspectives",
+      "pdf": "autonomous-weapons-ethical-challenges-and-strategic-perspectives.pdf",
+      "summary": "A strategic-ethical analysis of autonomous weapons, accountability gaps, escalation dynamics, and policy options for meaningful human control.",
+      "themes": [
+        "Autonomous Weapons",
+        "Ethics",
+        "Game Theory",
+        "Strategic Stability"
+      ],
+      "order": 30,
+      "published": false,
+      "date": "2025-11-26",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-26"
+    },
+    {
+      "slug": "beyond-mad-agi-strategic-stability",
+      "title": "Beyond MAD: AGI Coupling and Strategic Stability",
+      "report_dir": "autonomous-weapons-ethical-challenges-and-strategic-perspectives",
+      "pdf": "beyond-mad-agi-strategic-stability.pdf",
+      "summary": "An argument that autonomous arms races can shift deterrence from mutual destruction toward mutual loss of human agency.",
+      "themes": [
+        "Autonomous Weapons",
+        "AGI Risk",
+        "Deterrence",
+        "Game Theory"
+      ],
+      "order": 40,
+      "published": false,
+      "date": "2025-11-26",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-26"
+    },
+    {
+      "slug": "briefing-doc-autonomous-weapons",
+      "title": "Autonomous Weapons Briefing Document",
+      "report_dir": "autonomous-weapons-ethical-challenges-and-strategic-perspectives",
+      "pdf": "briefing-doc.pdf",
+      "summary": "A compact briefing version of the autonomous-weapons analysis for discussion and course preparation.",
+      "themes": [
+        "Autonomous Weapons",
+        "Policy",
+        "Briefing"
+      ],
+      "order": 50,
+      "published": false,
+      "date": "2025-11-26",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-26"
+    },
+    {
+      "slug": "chinese-humanoid-robotics-companies",
+      "title": "Major Humanoid Robotics Companies in China",
+      "report_dir": "chinese-humanoid-robotics-companies",
+      "pdf": "chinese-humanoid-robotics-companies.pdf",
+      "summary": "A landscape survey of major Chinese humanoid robotics firms, capabilities, and ecosystem position.",
+      "themes": [
+        "Robotics",
+        "China",
+        "Market Intelligence",
+        "Humanoids"
+      ],
+      "order": 60,
+      "published": false,
+      "date": "2026-01-13",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-01-13-16:36:24"
+    },
+    {
+      "slug": "curve-integrals-recap-en",
+      "title": "Curve Integrals Recap (English)",
+      "report_dir": "curve-integrals-recap",
+      "pdf": "curve-integrals-recap.pdf",
+      "summary": "A compact educational recap of vector fields, line integrals, and conservative systems.",
+      "themes": [
+        "Mathematics",
+        "Vector Calculus",
+        "Education"
+      ],
+      "order": 70,
+      "published": true,
+      "date": "2025-11-19",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-19-11:04:41"
+    },
+    {
+      "slug": "curve-integrals-recap-no",
+      "title": "Curve Integrals Recap (Norwegian)",
+      "report_dir": "curve-integrals-recap",
+      "pdf": "curve-integrals-recap-no.pdf",
+      "summary": "Norwegian-language edition of the line-integrals and vector-fields recap.",
+      "themes": [
+        "Mathematics",
+        "Vector Calculus",
+        "Education",
+        "Norwegian"
+      ],
+      "order": 80,
+      "published": true,
+      "date": "2025-11-19",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-19-11:04:41"
+    },
+    {
+      "slug": "gaussian-splat-exploration",
+      "title": "Gaussian Splat Exploration",
+      "report_dir": "gaussian-splat-exploration",
+      "pdf": "gaussian-splat-exploration.pdf",
+      "summary": "A technical exploration of Gaussian splatting from rendering foundations to robotics integration.",
+      "themes": [
+        "Computer Vision",
+        "3D Representation",
+        "Robotics",
+        "Rendering"
+      ],
+      "order": 90,
+      "published": false,
+      "date": "2025-11-17",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-17-10:56:45"
+    },
+    {
+      "slug": "gaussian-splats-as-curvature",
+      "title": "Gaussian Splats as Curvature",
+      "report_dir": "gaussian-splats-as-curvature",
+      "pdf": "gaussian-splats-as-curvature.pdf",
+      "summary": "A geometric interpretation of Gaussian splats linking metrics, curvature, and gauge-theoretic views.",
+      "themes": [
+        "Geometry",
+        "Differential Geometry",
+        "Computer Vision",
+        "Theory"
+      ],
+      "order": 100,
+      "published": false,
+      "date": "2025-11-17",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-17-11:03:02"
+    },
+    {
+      "slug": "kawasaki-robot-model-ros-design-study",
+      "title": "Kawasaki Robot ROS2 Design Study",
+      "report_dir": "kawasaki-robot-model-ros-design-study",
+      "pdf": "kawasaki-robot-model-ros-design-study.pdf",
+      "summary": "A ROS2-based control and simulation architecture study for the Kawasaki FS06N industrial robot.",
+      "themes": [
+        "ROS2",
+        "Robotics",
+        "Control Systems",
+        "Simulation"
+      ],
+      "order": 110,
+      "published": false,
+      "date": "2025-11-16",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-16-22:01:03"
+    },
+    {
+      "slug": "large-culture-models",
+      "title": "Large Culture Models",
+      "report_dir": "large-culture-models",
+      "pdf": "large-culture-models.pdf",
+      "summary": "An essay on models, worlds, and cultural-scale simulation in the era of foundation models.",
+      "themes": [
+        "AI",
+        "Culture",
+        "Philosophy",
+        "Systems Thinking"
+      ],
+      "order": 120,
+      "published": false,
+      "date": "2025-11-19",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-19-12:04:37"
+    },
+    {
+      "slug": "lyme-disease-manganese",
+      "title": "Manganese Metabolism in Lyme Disease",
+      "report_dir": "lyme-disease-manganese",
+      "pdf": "lyme-disease-manganese.pdf",
+      "summary": "A biomedical review connecting Borrelia manganese biology with therapeutic vulnerabilities and AI-assisted drug discovery.",
+      "themes": [
+        "Biomedicine",
+        "Lyme Disease",
+        "Drug Discovery",
+        "AI in Science"
+      ],
+      "order": 130,
+      "published": true,
+      "date": "2025-11-15",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-15-20:01:32"
+    },
+    {
+      "slug": "possible-simplifications-in-robotics",
+      "title": "Possible Simplifications in Robotics",
+      "report_dir": "possible-simplifications-in-robotics",
+      "pdf": "possible-simplifications-in-robotics.pdf",
+      "summary": "A strategic technical analysis of where robotics stacks can be simplified through better representations.",
+      "themes": [
+        "Robotics",
+        "Architecture",
+        "Embodied AI",
+        "Optimization"
+      ],
+      "order": 140,
+      "published": false,
+      "date": "2025-11-20",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-20-10:19:36"
+    },
+    {
+      "slug": "robot-market-analysis",
+      "title": "Humanoid Robots in the Economy",
+      "report_dir": "robot-market-analysis",
+      "pdf": "robot-market-analysis.pdf",
+      "summary": "A market-structure essay on diffusion, commoditization, value capture, and geopolitical control points in humanoid robotics.",
+      "themes": [
+        "Robotics",
+        "Economics",
+        "Industrial Strategy",
+        "Geopolitics"
+      ],
+      "order": 150,
+      "published": true,
+      "date": "2026-01-14",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-01-14-16:51:10"
+    },
+    {
+      "slug": "robots-and-visual-language-models-survey",
+      "title": "Visual Language Models and Robotics",
+      "report_dir": "robots-and-visual-language-models",
+      "pdf": "robots-and-visual-language-models-survey.pdf",
+      "summary": "A survey of the transition from teleoperation toward more autonomous robotics via vision-language models.",
+      "themes": [
+        "VLM",
+        "Robotics",
+        "Autonomy",
+        "Survey"
+      ],
+      "order": 160,
+      "published": true,
+      "date": "2025-09-14",
+      "date_source": "latex_date_command",
+      "date_evidence": "robots-and-visual-language-models-survey.tex: \\date{September 14, 2025}"
+    },
+    {
+      "slug": "t-bill-collapse",
+      "title": "Treasury Bill Market Dynamics",
+      "report_dir": "t-bill-collapse",
+      "pdf": "t-bill-collapse.pdf",
+      "summary": "A systems analysis of U.S. Treasury bill market structure, stress channels, and strategic monitoring needs.",
+      "themes": [
+        "Finance",
+        "Macro",
+        "Market Structure",
+        "Risk"
+      ],
+      "order": 170,
+      "published": true,
+      "date": "2026-01-25",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-01-25-20:13:40"
+    },
+    {
+      "slug": "the-future-is-a-game",
+      "title": "The Future Is a Game",
+      "report_dir": "the-future-is-too-bleak",
+      "pdf": "the-future-is-a-game.pdf",
+      "summary": "A companion essay on strategic imagination and game-structure framing for future societal design.",
+      "themes": [
+        "Futures",
+        "Game Theory",
+        "Political Economy",
+        "Essays"
+      ],
+      "order": 180,
+      "published": false,
+      "date": "2025-11-30",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-30-15:24:12"
+    },
+    {
+      "slug": "the-future-is-too-bleak",
+      "title": "The Future Is Too Bleak",
+      "report_dir": "the-future-is-too-bleak",
+      "pdf": "the-future-is-too-bleak.pdf",
+      "summary": "An essay on escaping the capitalism-vs-marxism binary and reopening future design space.",
+      "themes": [
+        "Futures",
+        "Political Economy",
+        "Essays",
+        "Systems Thinking"
+      ],
+      "order": 190,
+      "published": false,
+      "date": "2025-11-30",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-30-15:24:12"
+    },
+    {
+      "slug": "the-nansen-mission",
+      "title": "The Nansen Mission",
+      "report_dir": "the-nansen-mission",
+      "pdf": "the-nansen-mission.pdf",
+      "summary": "A mission-style proposal for Norwegian AI sovereignty centered on value capture, data loops, and national capability.",
+      "themes": [
+        "AI Policy",
+        "Norway",
+        "Sovereignty",
+        "Strategy"
+      ],
+      "order": 200,
+      "published": true,
+      "date": "2025-11-30",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-30-16:20:09"
+    },
+    {
+      "slug": "world-modelling-anno-november-2025",
+      "title": "World Modelling (November 2025)",
+      "report_dir": "world-modelling-anno-november-2025",
+      "pdf": "world-modelling-anno-november-2025.pdf",
+      "summary": "A state-of-the-art synthesis on world models, simulation, and embodied intelligence trajectories.",
+      "themes": [
+        "World Models",
+        "Embodied AI",
+        "Simulation",
+        "Research Overview"
+      ],
+      "order": 210,
+      "published": false,
+      "date": "2025-11-16",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2025-11-16-21:47:29"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+:root {
+  --jb-card-border: rgba(32, 47, 60, 0.15);
+  --jb-card-shadow: 0 8px 30px rgba(19, 33, 44, 0.08);
+}
+
+.md-main__inner {
+  margin-top: 1rem;
+}
+
+.grid.cards > ul > li {
+  border: 1px solid var(--jb-card-border);
+  border-radius: 14px;
+  box-shadow: var(--jb-card-shadow);
+}
+
+.grid.cards img {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid rgba(32, 47, 60, 0.16);
+  margin-bottom: 0.4rem;
+}
+
+.theme-chip {
+  display: inline-block;
+  font-size: 0.7rem;
+  border: 1px solid rgba(22, 67, 89, 0.24);
+  border-radius: 999px;
+  padding: 0.15rem 0.55rem;
+  margin: 0.05rem 0.25rem 0.15rem 0;
+  color: #154255;
+  background: rgba(21, 66, 85, 0.07);
+}
+
+a.theme-chip {
+  text-decoration: none;
+}
+
+a.theme-chip:hover {
+  background: rgba(21, 66, 85, 0.16);
+  border-color: rgba(22, 67, 89, 0.34);
+}
+
+.journal-intro {
+  border: 1px solid rgba(22, 67, 89, 0.18);
+  border-left: 4px solid rgba(22, 67, 89, 0.55);
+  border-radius: 12px;
+  padding: 1rem 1.1rem 1.05rem;
+  margin: 0.8rem 0 1.25rem;
+  background: linear-gradient(180deg, rgba(21, 66, 85, 0.06), rgba(21, 66, 85, 0.02));
+}
+
+.journal-intro h3 {
+  margin: 0 0 0.45rem;
+}
+
+.journal-intro ul {
+  margin: 0.3rem 0 0.75rem;
+}
+
+.journal-intro p {
+  margin: 0.4rem 0;
+}
+
+.paper-thumb-large {
+  width: min(400px, 100%);
+  border: 1px solid rgba(32, 47, 60, 0.18);
+  border-radius: 10px;
+  box-shadow: var(--jb-card-shadow);
+}
+
+.pdf-frame {
+  width: 100%;
+  height: 82vh;
+  min-height: 620px;
+  border: 1px solid rgba(32, 47, 60, 0.2);
+  border-radius: 10px;
+  box-shadow: var(--jb-card-shadow);
+  background: #fff;
+}

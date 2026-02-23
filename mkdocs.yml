@@ -1,0 +1,49 @@
+site_name: Journal of Bjorn
+site_description: Research notes, essays, and technical papers.
+site_url: https://la3lma.github.io/journal-of-bjorn/
+repo_url: https://github.com/la3lma/journal-of-bjorn
+repo_name: la3lma/journal-of-bjorn
+
+use_directory_urls: false
+
+docs_dir: docs
+site_dir: site
+
+nav:
+  - Journal of Bjorn: index.md
+  - Papers:
+      - Overview: papers/index.md
+      - Alphabetical: papers/alphabetical.md
+      - Chronological: papers/chronological.md
+      - By Month: papers/by-month/index.md
+      - By Year: papers/by-year/index.md
+  - Themes: themes/index.md
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: teal
+
+plugins:
+  - search
+
+validation:
+  nav:
+    omitted_files: ignore
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+
+extra_css:
+  - stylesheets/extra.css

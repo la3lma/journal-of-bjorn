@@ -1,1 +1,10 @@
 *~
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+site/
+# Generated local mirrors and artifacts
+docs/pdf/
+docs/assets/thumbs/
+docs/papers/
