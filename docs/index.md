@@ -168,6 +168,17 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     [Open Page](papers/muon-optimizer-accelerates-grokking.md) · [Open PDF](pdf/muon-optimizer-accelerates-grokking.pdf) · <a href="pdf/muon-optimizer-accelerates-grokking.pdf" download>Download</a> · [arXiv](https://arxiv.org/abs/2504.16041v1)
 
+-   [![Recent Developments in Entropic Gravity preview](assets/thumbs/entropic-gravity.png)](papers/entropic-gravity.md)
+    **[Recent Developments in Entropic Gravity](papers/entropic-gravity.md)**
+
+    A synthesis of 2024-2026 entropic-gravity research, from microscopic free-energy models to cosmological and ultra-weak-regime tests, with emphasis on falsifiable predictions.
+
+    *Date: 2026-02-24*
+
+    [Theoretical Physics](themes/theoretical-physics.md){ .theme-chip } [Gravity](themes/gravity.md){ .theme-chip } [Cosmology](themes/cosmology.md){ .theme-chip } [Quantum Information](themes/quantum-information.md){ .theme-chip }
+
+    [Open Page](papers/entropic-gravity.md) · [Open PDF](pdf/entropic-gravity.pdf) · <a href="pdf/entropic-gravity.pdf" download>Download</a>
+
 </div>
 
 ## Browse by Theme

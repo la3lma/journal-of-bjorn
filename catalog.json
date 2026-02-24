@@ -452,6 +452,24 @@
       "date": "2025-04-22",
       "date_source": "arxiv_published",
       "date_evidence": "https://arxiv.org/abs/2504.16041v1 (published 2025-04-22T17:08:09Z)"
+    },
+    {
+      "slug": "entropic-gravity",
+      "title": "Recent Developments in Entropic Gravity",
+      "report_dir": "entropic-gravity",
+      "pdf": "entropic-gravity.pdf",
+      "summary": "A synthesis of 2024-2026 entropic-gravity research, from microscopic free-energy models to cosmological and ultra-weak-regime tests, with emphasis on falsifiable predictions.",
+      "themes": [
+        "Theoretical Physics",
+        "Gravity",
+        "Cosmology",
+        "Quantum Information"
+      ],
+      "order": 240,
+      "published": true,
+      "date": "2026-02-24",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-02-24-09:57:13"
     }
   ]
 }
