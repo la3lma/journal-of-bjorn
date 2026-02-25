@@ -176,7 +176,7 @@
         "Rendering"
       ],
       "order": 90,
-      "published": false,
+      "published": true,
       "date": "2025-11-17",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2025-11-17-10:56:45"
