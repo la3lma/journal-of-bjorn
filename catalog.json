@@ -105,7 +105,7 @@
         "Briefing"
       ],
       "order": 50,
-      "published": false,
+      "published": true,
       "date": "2025-11-26",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2025-11-26"
