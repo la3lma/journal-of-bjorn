@@ -70,7 +70,7 @@
         "Strategic Stability"
       ],
       "order": 30,
-      "published": false,
+      "published": true,
       "date": "2025-11-26",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2025-11-26"
@@ -88,7 +88,7 @@
         "Game Theory"
       ],
       "order": 40,
-      "published": false,
+      "published": true,
       "date": "2025-11-26",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2025-11-26"
@@ -123,7 +123,7 @@
         "Humanoids"
       ],
       "order": 60,
-      "published": false,
+      "published": true,
       "date": "2026-01-13",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2026-01-13-16:36:24"
