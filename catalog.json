@@ -230,7 +230,7 @@
         "Systems Thinking"
       ],
       "order": 120,
-      "published": false,
+      "published": true,
       "date": "2025-11-19",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2025-11-19-12:04:37"
