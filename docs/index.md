@@ -15,7 +15,7 @@ Before you dive in, a quick disclaimer: this is a journal in the personal sense,
 Why the formal format? Quite simply, I like how papers read. It helps me organize my thoughts. My process usually looks like this:
 
 - I get obsessed with a topic.
-- I dive into a rabbit hole using Google and AI assistants.
+- I dive into a rabbit hole using searcj and AI assistants.
 - I synthesize those dialogues into the short papers you see here.
 
 **A Note on Quality**
@@ -58,6 +58,50 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     [Open Page](papers/algorithmic-screening-a-concept-note.md) · [Open PDF](pdf/algorithmic_screening_a_concept_note.pdf) · <a href="pdf/algorithmic_screening_a_concept_note.pdf" download>Download</a>
 
+-   [![AI-Guided Weapons and Ethical Challenges preview](assets/thumbs/ai-guided-weapons-and-ethical-challenges.png)](papers/ai-guided-weapons-and-ethical-challenges.md)
+    **[AI-Guided Weapons and Ethical Challenges](papers/ai-guided-weapons-and-ethical-challenges.md)**
+
+    A strategic-ethical analysis of autonomous weapons, accountability gaps, escalation dynamics, and policy options for meaningful human control.
+
+    *Date: 2025-11-26*
+
+    [Autonomous Weapons](themes/autonomous-weapons.md){ .theme-chip } [Ethics](themes/ethics.md){ .theme-chip } [Game Theory](themes/game-theory.md){ .theme-chip } [Strategic Stability](themes/strategic-stability.md){ .theme-chip }
+
+    [Open Page](papers/ai-guided-weapons-and-ethical-challenges.md) · [Open PDF](pdf/autonomous-weapons-ethical-challenges-and-strategic-perspectives.pdf) · <a href="pdf/autonomous-weapons-ethical-challenges-and-strategic-perspectives.pdf" download>Download</a>
+
+-   [![Beyond MAD: AGI Coupling and Strategic Stability preview](assets/thumbs/beyond-mad-agi-strategic-stability.png)](papers/beyond-mad-agi-strategic-stability.md)
+    **[Beyond MAD: AGI Coupling and Strategic Stability](papers/beyond-mad-agi-strategic-stability.md)**
+
+    An argument that autonomous arms races can shift deterrence from mutual destruction toward mutual loss of human agency.
+
+    *Date: 2025-11-26*
+
+    [Autonomous Weapons](themes/autonomous-weapons.md){ .theme-chip } [AGI Risk](themes/agi-risk.md){ .theme-chip } [Deterrence](themes/deterrence.md){ .theme-chip } [Game Theory](themes/game-theory.md){ .theme-chip }
+
+    [Open Page](papers/beyond-mad-agi-strategic-stability.md) · [Open PDF](pdf/beyond-mad-agi-strategic-stability.pdf) · <a href="pdf/beyond-mad-agi-strategic-stability.pdf" download>Download</a>
+
+-   [![Autonomous Weapons Briefing Document preview](assets/thumbs/briefing-doc-autonomous-weapons.png)](papers/briefing-doc-autonomous-weapons.md)
+    **[Autonomous Weapons Briefing Document](papers/briefing-doc-autonomous-weapons.md)**
+
+    A compact briefing version of the autonomous-weapons analysis for discussion and course preparation.
+
+    *Date: 2025-11-26*
+
+    [Autonomous Weapons](themes/autonomous-weapons.md){ .theme-chip } [Policy](themes/policy.md){ .theme-chip } [Briefing](themes/briefing.md){ .theme-chip }
+
+    [Open Page](papers/briefing-doc-autonomous-weapons.md) · [Open PDF](pdf/briefing-doc.pdf) · <a href="pdf/briefing-doc.pdf" download>Download</a>
+
+-   [![Major Humanoid Robotics Companies in China preview](assets/thumbs/chinese-humanoid-robotics-companies.png)](papers/chinese-humanoid-robotics-companies.md)
+    **[Major Humanoid Robotics Companies in China](papers/chinese-humanoid-robotics-companies.md)**
+
+    A landscape survey of major Chinese humanoid robotics firms, capabilities, and ecosystem position.
+
+    *Date: 2026-01-13*
+
+    [Robotics](themes/robotics.md){ .theme-chip } [China](themes/china.md){ .theme-chip } [Market Intelligence](themes/market-intelligence.md){ .theme-chip } [Humanoids](themes/humanoids.md){ .theme-chip }
+
+    [Open Page](papers/chinese-humanoid-robotics-companies.md) · [Open PDF](pdf/chinese-humanoid-robotics-companies.pdf) · <a href="pdf/chinese-humanoid-robotics-companies.pdf" download>Download</a>
+
 -   [![Curve Integrals Recap (English) preview](assets/thumbs/curve-integrals-recap-en.png)](papers/curve-integrals-recap-en.md)
     **[Curve Integrals Recap (English)](papers/curve-integrals-recap-en.md)**
 
@@ -79,6 +123,28 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
     [Mathematics](themes/mathematics.md){ .theme-chip } [Vector Calculus](themes/vector-calculus.md){ .theme-chip } [Education](themes/education.md){ .theme-chip } [Norwegian](themes/norwegian.md){ .theme-chip }
 
     [Open Page](papers/curve-integrals-recap-no.md) · [Open PDF](pdf/curve-integrals-recap-no.pdf) · <a href="pdf/curve-integrals-recap-no.pdf" download>Download</a>
+
+-   [![Gaussian Splat Exploration preview](assets/thumbs/gaussian-splat-exploration.png)](papers/gaussian-splat-exploration.md)
+    **[Gaussian Splat Exploration](papers/gaussian-splat-exploration.md)**
+
+    A technical exploration of Gaussian splatting from rendering foundations to robotics integration.
+
+    *Date: 2025-11-17*
+
+    [Computer Vision](themes/computer-vision.md){ .theme-chip } [3D Representation](themes/3d-representation.md){ .theme-chip } [Robotics](themes/robotics.md){ .theme-chip } [Rendering](themes/rendering.md){ .theme-chip }
+
+    [Open Page](papers/gaussian-splat-exploration.md) · [Open PDF](pdf/gaussian-splat-exploration.pdf) · <a href="pdf/gaussian-splat-exploration.pdf" download>Download</a>
+
+-   [![Large Culture Models preview](assets/thumbs/large-culture-models.png)](papers/large-culture-models.md)
+    **[Large Culture Models](papers/large-culture-models.md)**
+
+    An essay on models, worlds, and cultural-scale simulation in the era of foundation models.
+
+    *Date: 2025-11-19*
+
+    [AI](themes/ai.md){ .theme-chip } [Culture](themes/culture.md){ .theme-chip } [Philosophy](themes/philosophy.md){ .theme-chip } [Systems Thinking](themes/systems-thinking.md){ .theme-chip }
+
+    [Open Page](papers/large-culture-models.md) · [Open PDF](pdf/large-culture-models.pdf) · <a href="pdf/large-culture-models.pdf" download>Download</a>
 
 -   [![Manganese Metabolism in Lyme Disease preview](assets/thumbs/lyme-disease-manganese.png)](papers/lyme-disease-manganese.md)
     **[Manganese Metabolism in Lyme Disease](papers/lyme-disease-manganese.md)**
@@ -178,6 +244,17 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
     [Theoretical Physics](themes/theoretical-physics.md){ .theme-chip } [Gravity](themes/gravity.md){ .theme-chip } [Cosmology](themes/cosmology.md){ .theme-chip } [Quantum Information](themes/quantum-information.md){ .theme-chip }
 
     [Open Page](papers/entropic-gravity.md) · [Open PDF](pdf/entropic-gravity.pdf) · <a href="pdf/entropic-gravity.pdf" download>Download</a>
+
+-   [![Where Sorting Creates Value in Production--Waste Flow Networks preview](assets/thumbs/value-of-sorting.png)](papers/value-of-sorting.md)
+    **[Where Sorting Creates Value in Production--Waste Flow Networks](papers/value-of-sorting.md)**
+
+    A mathematical model of flow networks with sources, processes, consumers, sorting/disassembly operations, and sinks, connected to real economy data. Focuses on determining the value of sorting and disassembly at different network points using established reverse-logistics and closed-loop supply-chain frameworks.
+
+    *Date: 2026-03-02*
+
+    [Supply Chain](themes/supply-chain.md){ .theme-chip } [Waste Management](themes/waste-management.md){ .theme-chip } [Mathematical Modeling](themes/mathematical-modeling.md){ .theme-chip } [Reverse Logistics](themes/reverse-logistics.md){ .theme-chip } [Material Flow Analysis](themes/material-flow-analysis.md){ .theme-chip }
+
+    [Open Page](papers/value-of-sorting.md) · [Open PDF](pdf/value-of-sorting.pdf) · <a href="pdf/value-of-sorting.pdf" download>Download</a>
 
 </div>
 
