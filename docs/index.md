@@ -63,7 +63,7 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     A strategic-ethical analysis of autonomous weapons, accountability gaps, escalation dynamics, and policy options for meaningful human control.
 
-    *Date: 2026-03-26*
+    *Date: 2025-11-26*
 
     [Autonomous Weapons](themes/autonomous-weapons.md){ .theme-chip } [Ethics](themes/ethics.md){ .theme-chip } [Game Theory](themes/game-theory.md){ .theme-chip } [Strategic Stability](themes/strategic-stability.md){ .theme-chip }
 
@@ -74,7 +74,7 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     An argument that autonomous arms races can shift deterrence from mutual destruction toward mutual loss of human agency.
 
-    *Date: 2026-03-26*
+    *Date: 2025-11-26*
 
     [Autonomous Weapons](themes/autonomous-weapons.md){ .theme-chip } [AGI Risk](themes/agi-risk.md){ .theme-chip } [Deterrence](themes/deterrence.md){ .theme-chip } [Game Theory](themes/game-theory.md){ .theme-chip }
 
@@ -85,7 +85,7 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     A compact briefing version of the autonomous-weapons analysis for discussion and course preparation.
 
-    *Date: 2026-03-26*
+    *Date: 2025-11-26*
 
     [Autonomous Weapons](themes/autonomous-weapons.md){ .theme-chip } [Policy](themes/policy.md){ .theme-chip } [Briefing](themes/briefing.md){ .theme-chip }
 

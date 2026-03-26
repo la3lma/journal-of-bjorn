@@ -71,9 +71,9 @@
       ],
       "order": 30,
       "published": true,
-      "date": "2026-03-26",
+      "date": "2025-11-26",
       "date_source": "latex_version_file",
-      "date_evidence": "version.tex: 2026-03-26"
+      "date_evidence": "version.tex: 2025-11-26"
     },
     {
       "slug": "beyond-mad-agi-strategic-stability",
@@ -89,9 +89,9 @@
       ],
       "order": 40,
       "published": true,
-      "date": "2026-03-26",
+      "date": "2025-11-26",
       "date_source": "latex_version_file",
-      "date_evidence": "version.tex: 2026-03-26"
+      "date_evidence": "version.tex: 2025-11-26"
     },
     {
       "slug": "briefing-doc-autonomous-weapons",
@@ -106,9 +106,9 @@
       ],
       "order": 50,
       "published": true,
-      "date": "2026-03-26",
+      "date": "2025-11-26",
       "date_source": "latex_version_file",
-      "date_evidence": "version.tex: 2026-03-26"
+      "date_evidence": "version.tex: 2025-11-26"
     },
     {
       "slug": "chinese-humanoid-robotics-companies",
