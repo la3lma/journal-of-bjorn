@@ -63,7 +63,7 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     A strategic-ethical analysis of autonomous weapons, accountability gaps, escalation dynamics, and policy options for meaningful human control.
 
-    *Date: 2025-11-26*
+    *Date: 2026-03-26*
 
     [Autonomous Weapons](themes/autonomous-weapons.md){ .theme-chip } [Ethics](themes/ethics.md){ .theme-chip } [Game Theory](themes/game-theory.md){ .theme-chip } [Strategic Stability](themes/strategic-stability.md){ .theme-chip }
 
@@ -74,7 +74,7 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     An argument that autonomous arms races can shift deterrence from mutual destruction toward mutual loss of human agency.
 
-    *Date: 2025-11-26*
+    *Date: 2026-03-26*
 
     [Autonomous Weapons](themes/autonomous-weapons.md){ .theme-chip } [AGI Risk](themes/agi-risk.md){ .theme-chip } [Deterrence](themes/deterrence.md){ .theme-chip } [Game Theory](themes/game-theory.md){ .theme-chip }
 
@@ -85,7 +85,7 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     A compact briefing version of the autonomous-weapons analysis for discussion and course preparation.
 
-    *Date: 2025-11-26*
+    *Date: 2026-03-26*
 
     [Autonomous Weapons](themes/autonomous-weapons.md){ .theme-chip } [Policy](themes/policy.md){ .theme-chip } [Briefing](themes/briefing.md){ .theme-chip }
 
@@ -255,6 +255,28 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
     [Supply Chain](themes/supply-chain.md){ .theme-chip } [Waste Management](themes/waste-management.md){ .theme-chip } [Mathematical Modeling](themes/mathematical-modeling.md){ .theme-chip } [Reverse Logistics](themes/reverse-logistics.md){ .theme-chip } [Material Flow Analysis](themes/material-flow-analysis.md){ .theme-chip }
 
     [Open Page](papers/value-of-sorting.md) · [Open PDF](pdf/value-of-sorting.pdf) · <a href="pdf/value-of-sorting.pdf" download>Download</a>
+
+-   [![Drone Swarms, Deterrence, and the Prospect of Non-Nuclear Mass Disruption preview](assets/thumbs/nuclear-and-drones.png)](papers/nuclear-and-drones.md)
+    **[Drone Swarms, Deterrence, and the Prospect of Non-Nuclear Mass Disruption](papers/nuclear-and-drones.md)**
+
+    A strategic essay on how large-scale autonomous drone swarms could become instruments of non-nuclear mass disruption, altering deterrence logic by threatening nationwide paralysis rather than city-destroying blast effects.
+
+    *Date: 2026-03-26*
+
+    [Autonomous Weapons](themes/autonomous-weapons.md){ .theme-chip } [Deterrence](themes/deterrence.md){ .theme-chip } [Strategic Stability](themes/strategic-stability.md){ .theme-chip } [Sovereignty](themes/sovereignty.md){ .theme-chip }
+
+    [Open Page](papers/nuclear-and-drones.md) · [Open PDF](pdf/nuclear-and-drones.pdf) · <a href="pdf/nuclear-and-drones.pdf" download>Download</a>
+
+-   [![Distributed Nuclear Deterrence in the Age of AI and Drone Swarms preview](assets/thumbs/drone-based-nuclear-deterrence.png)](papers/drone-based-nuclear-deterrence.md)
+    **[Distributed Nuclear Deterrence in the Age of AI and Drone Swarms](papers/drone-based-nuclear-deterrence.md)**
+
+    A strategic thought experiment on what happens when future nuclear states pursue survivability through AI-enabled autonomy, distributed concealment, and drone-era delivery concepts instead of the classical triad.
+
+    *Date: 2026-03-26*
+
+    [Autonomous Weapons](themes/autonomous-weapons.md){ .theme-chip } [Deterrence](themes/deterrence.md){ .theme-chip } [Strategic Stability](themes/strategic-stability.md){ .theme-chip } [Strategy](themes/strategy.md){ .theme-chip }
+
+    [Open Page](papers/drone-based-nuclear-deterrence.md) · [Open PDF](pdf/drone-based-nuclear-deterrence.pdf) · <a href="pdf/drone-based-nuclear-deterrence.pdf" download>Download</a>
 
 </div>
 

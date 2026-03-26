@@ -71,9 +71,9 @@
       ],
       "order": 30,
       "published": true,
-      "date": "2025-11-26",
+      "date": "2026-03-26",
       "date_source": "latex_version_file",
-      "date_evidence": "version.tex: 2025-11-26"
+      "date_evidence": "version.tex: 2026-03-26"
     },
     {
       "slug": "beyond-mad-agi-strategic-stability",
@@ -89,9 +89,9 @@
       ],
       "order": 40,
       "published": true,
-      "date": "2025-11-26",
+      "date": "2026-03-26",
       "date_source": "latex_version_file",
-      "date_evidence": "version.tex: 2025-11-26"
+      "date_evidence": "version.tex: 2026-03-26"
     },
     {
       "slug": "briefing-doc-autonomous-weapons",
@@ -106,9 +106,9 @@
       ],
       "order": 50,
       "published": true,
-      "date": "2025-11-26",
+      "date": "2026-03-26",
       "date_source": "latex_version_file",
-      "date_evidence": "version.tex: 2025-11-26"
+      "date_evidence": "version.tex: 2026-03-26"
     },
     {
       "slug": "chinese-humanoid-robotics-companies",
@@ -413,7 +413,7 @@
       "published": true,
       "date": "2026-02-23",
       "date_source": "latex_version_file",
-      "date_evidence": "version.tex: 2026-02-23-15:34:20"
+      "date_evidence": "version.tex: 2026-02-23-16:03:14"
     },
     {
       "slug": "symmetry-in-software-platforms-as-an-architectural-principle",
@@ -488,7 +488,43 @@
       "published": true,
       "date": "2026-03-02",
       "date_source": "latex_version_file",
-      "date_evidence": "version.tex: 2026-03-02"
+      "date_evidence": "version.tex: 2026-03-02-23:10:03"
+    },
+    {
+      "slug": "nuclear-and-drones",
+      "title": "Drone Swarms, Deterrence, and the Prospect of Non-Nuclear Mass Disruption",
+      "report_dir": "autonomous-weapons-ethical-challenges-and-strategic-perspectives",
+      "pdf": "nuclear-and-drones.pdf",
+      "summary": "A strategic essay on how large-scale autonomous drone swarms could become instruments of non-nuclear mass disruption, altering deterrence logic by threatening nationwide paralysis rather than city-destroying blast effects.",
+      "themes": [
+        "Autonomous Weapons",
+        "Deterrence",
+        "Strategic Stability",
+        "Sovereignty"
+      ],
+      "order": 260,
+      "published": true,
+      "date": "2026-03-26",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-03-26"
+    },
+    {
+      "slug": "drone-based-nuclear-deterrence",
+      "title": "Distributed Nuclear Deterrence in the Age of AI and Drone Swarms",
+      "report_dir": "autonomous-weapons-ethical-challenges-and-strategic-perspectives",
+      "pdf": "drone-based-nuclear-deterrence.pdf",
+      "summary": "A strategic thought experiment on what happens when future nuclear states pursue survivability through AI-enabled autonomy, distributed concealment, and drone-era delivery concepts instead of the classical triad.",
+      "themes": [
+        "Autonomous Weapons",
+        "Deterrence",
+        "Strategic Stability",
+        "Strategy"
+      ],
+      "order": 270,
+      "published": true,
+      "date": "2026-03-26",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-03-26"
     }
   ]
 }
