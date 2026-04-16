@@ -278,6 +278,17 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     [Open Page](papers/drone-based-nuclear-deterrence.md) · [Open PDF](pdf/drone-based-nuclear-deterrence.pdf) · <a href="pdf/drone-based-nuclear-deterrence.pdf" download>Download</a>
 
+-   [![Analyse av ankene og rettsavgjørelsene i saken om påstått konfiskatorisk formuesskatt preview](assets/thumbs/hr-dom-om-konfiskatorisk-skatt.png)](papers/hr-dom-om-konfiskatorisk-skatt.md)
+    **[Analyse av ankene og rettsavgjørelsene i saken om påstått konfiskatorisk formuesskatt](papers/hr-dom-om-konfiskatorisk-skatt.md)**
+
+    A Norwegian-language legal analysis of the district-court, court-of-appeal, and Supreme Court filings in a Norwegian wealth-tax case about allegedly confiscatory cumulative taxation, with emphasis on why the claim failed procedurally and how a future test case could better surface the constitutional and ECHR issues.
+
+    *Date: 2026-04-17*
+
+    [Norway](themes/norway.md){ .theme-chip } [Law](themes/law.md){ .theme-chip } [Taxation](themes/taxation.md){ .theme-chip } [Human Rights](themes/human-rights.md){ .theme-chip }
+
+    [Open Page](papers/hr-dom-om-konfiskatorisk-skatt.md) · [Open PDF](pdf/hr-dom-om-konfiskatorisk-skatt.pdf) · <a href="pdf/hr-dom-om-konfiskatorisk-skatt.pdf" download>Download</a>
+
 </div>
 
 ## Browse by Theme

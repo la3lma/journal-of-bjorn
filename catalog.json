@@ -525,6 +525,24 @@
       "date": "2026-03-26",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2026-03-26"
+    },
+    {
+      "slug": "hr-dom-om-konfiskatorisk-skatt",
+      "title": "Analyse av ankene og rettsavgjørelsene i saken om påstått konfiskatorisk formuesskatt",
+      "report_dir": "hr-dom-om-konfiskatorisk-skatt",
+      "pdf": "hr-dom-om-konfiskatorisk-skatt.pdf",
+      "summary": "A Norwegian-language legal analysis of the district-court, court-of-appeal, and Supreme Court filings in a Norwegian wealth-tax case about allegedly confiscatory cumulative taxation, with emphasis on why the claim failed procedurally and how a future test case could better surface the constitutional and ECHR issues.",
+      "themes": [
+        "Norway",
+        "Law",
+        "Taxation",
+        "Human Rights"
+      ],
+      "order": 280,
+      "published": true,
+      "date": "2026-04-17",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-04-17-00:05:35-CEST-665454b-main"
     }
   ]
 }
