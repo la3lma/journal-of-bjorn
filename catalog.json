@@ -543,6 +543,24 @@
       "date": "2026-04-17",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2026-04-17-00:05:35-CEST-665454b-main"
+    },
+    {
+      "slug": "mythos-dod-analysis",
+      "title": "The Hidden Context of Anthropic's Pentagon Refusal",
+      "report_dir": "anthropic-revisited",
+      "pdf": "mythos-dod-analysis.pdf",
+      "summary": "A strategic analysis of Anthropic's reported Mythos cyber capabilities and what Pentagon access to such a system might have meant for military cyber operations, deterrence, and escalation risk.",
+      "themes": [
+        "Military AI",
+        "Cybersecurity",
+        "Deterrence",
+        "Strategic Stability"
+      ],
+      "order": 290,
+      "published": true,
+      "date": "2026-04-17",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-04-17-12:56:35-CEST"
     }
   ]
 }

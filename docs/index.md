@@ -289,6 +289,17 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     [Open Page](papers/hr-dom-om-konfiskatorisk-skatt.md) · [Open PDF](pdf/hr-dom-om-konfiskatorisk-skatt.pdf) · <a href="pdf/hr-dom-om-konfiskatorisk-skatt.pdf" download>Download</a>
 
+-   [![The Hidden Context of Anthropic's Pentagon Refusal preview](assets/thumbs/mythos-dod-analysis.png)](papers/mythos-dod-analysis.md)
+    **[The Hidden Context of Anthropic's Pentagon Refusal](papers/mythos-dod-analysis.md)**
+
+    A strategic analysis of Anthropic's reported Mythos cyber capabilities and what Pentagon access to such a system might have meant for military cyber operations, deterrence, and escalation risk.
+
+    *Date: 2026-04-17*
+
+    [Military AI](themes/military-ai.md){ .theme-chip } [Cybersecurity](themes/cybersecurity.md){ .theme-chip } [Deterrence](themes/deterrence.md){ .theme-chip } [Strategic Stability](themes/strategic-stability.md){ .theme-chip }
+
+    [Open Page](papers/mythos-dod-analysis.md) · [Open PDF](pdf/mythos-dod-analysis.pdf) · <a href="pdf/mythos-dod-analysis.pdf" download>Download</a>
+
 </div>
 
 ## Browse by Theme
