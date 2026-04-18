@@ -300,6 +300,17 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     [Open Page](papers/mythos-dod-analysis.md) · [Open PDF](pdf/mythos-dod-analysis.pdf) · <a href="pdf/mythos-dod-analysis.pdf" download>Download</a>
 
+-   [![Exploring a Scenario of Relative US Decline: Polycrisis, Authority Erosion, and Asset-Stripping Pathways preview](assets/thumbs/end-of-usa-hegemony.png)](papers/end-of-usa-hegemony.md)
+    **[Exploring a Scenario of Relative US Decline: Polycrisis, Authority Erosion, and Asset-Stripping Pathways](papers/end-of-usa-hegemony.md)**
+
+    A scenario analysis of interacting pressures that could erode US authority, from Hormuz stress and reserve diversification to fiscal strain, elite extraction, and a more speculative branch of distressed asset transfer.
+
+    *Date: 2026-04-18*
+
+    [Geopolitics](themes/geopolitics.md){ .theme-chip } [Macro](themes/macro.md){ .theme-chip } [Sovereignty](themes/sovereignty.md){ .theme-chip } [Economics](themes/economics.md){ .theme-chip }
+
+    [Open Page](papers/end-of-usa-hegemony.md) · [Open PDF](pdf/end-of-usa-hegemony.pdf) · <a href="pdf/end-of-usa-hegemony.pdf" download>Download</a>
+
 </div>
 
 ## Browse by Theme

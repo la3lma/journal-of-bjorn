@@ -561,6 +561,24 @@
       "date": "2026-04-17",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2026-04-17-12:56:35-CEST"
+    },
+    {
+      "slug": "end-of-usa-hegemony",
+      "title": "Exploring a Scenario of Relative US Decline: Polycrisis, Authority Erosion, and Asset-Stripping Pathways",
+      "report_dir": "end-of-usa-hegemony",
+      "pdf": "end-of-usa-hegemony.pdf",
+      "summary": "A scenario analysis of interacting pressures that could erode US authority, from Hormuz stress and reserve diversification to fiscal strain, elite extraction, and a more speculative branch of distressed asset transfer.",
+      "themes": [
+        "Geopolitics",
+        "Macro",
+        "Sovereignty",
+        "Economics"
+      ],
+      "order": 300,
+      "published": true,
+      "date": "2026-04-18",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-04-18-20:12:16-CEST-6d608fa-main"
     }
   ]
 }
