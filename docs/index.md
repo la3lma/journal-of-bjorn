@@ -311,6 +311,17 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     [Open Page](papers/end-of-usa-hegemony.md) · [Open PDF](pdf/end-of-usa-hegemony.pdf) · <a href="pdf/end-of-usa-hegemony.pdf" download>Download</a>
 
+-   [![Concept for a Multi-Scale Distributed Acoustic Sensing Network preview](assets/thumbs/distributed-acoustic-sensing.png)](papers/distributed-acoustic-sensing.md)
+    **[Concept for a Multi-Scale Distributed Acoustic Sensing Network](papers/distributed-acoustic-sensing.md)**
+
+    A quick systems-design exercise for a multi-scale distributed acoustic sensing network, covering timing islands, local microphone arrays, acoustic observation vectors, voxel log-likelihood fusion, particle-filter tracking, hardware constraints, and prototyping strategy. The document is explicitly framed as exploratory material rather than a finished concept paper or procurement recommendation.
+
+    *Date: 2026-06-21*
+
+    [Systems Design](themes/systems-design.md){ .theme-chip } [Defence Innovation](themes/defence-innovation.md){ .theme-chip } [Acoustic Sensing](themes/acoustic-sensing.md){ .theme-chip } [Sensor Fusion](themes/sensor-fusion.md){ .theme-chip } [Drones](themes/drones.md){ .theme-chip }
+
+    [Open Page](papers/distributed-acoustic-sensing.md) · [Open PDF](pdf/distributed-acoustic-sensing.pdf) · <a href="pdf/distributed-acoustic-sensing.pdf" download>Download</a>
+
 </div>
 
 ## Browse by Theme

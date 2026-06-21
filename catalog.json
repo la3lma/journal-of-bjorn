@@ -579,6 +579,25 @@
       "date": "2026-04-18",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2026-04-18-20:12:16-CEST-6d608fa-main"
+    },
+    {
+      "slug": "distributed-acoustic-sensing",
+      "title": "Concept for a Multi-Scale Distributed Acoustic Sensing Network",
+      "report_dir": "distributed-acoustic-sensing",
+      "pdf": "distributed-acoustic-sensing.pdf",
+      "summary": "A quick systems-design exercise for a multi-scale distributed acoustic sensing network, covering timing islands, local microphone arrays, acoustic observation vectors, voxel log-likelihood fusion, particle-filter tracking, hardware constraints, and prototyping strategy. The document is explicitly framed as exploratory material rather than a finished concept paper or procurement recommendation.",
+      "themes": [
+        "Systems Design",
+        "Defence Innovation",
+        "Acoustic Sensing",
+        "Sensor Fusion",
+        "Drones"
+      ],
+      "order": 310,
+      "published": true,
+      "date": "2026-06-21",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-06-21"
     }
   ]
 }
