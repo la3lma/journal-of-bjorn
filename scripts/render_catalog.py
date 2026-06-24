@@ -116,21 +116,42 @@ def chips(themes: list[str], prefix: str = "") -> str:
     return " ".join(links)
 
 
+def action_links(paper: dict, prefix: str = "", download_label: str = "Download") -> list[str]:
+    pdf = paper["pdf"]
+    links = [
+        f"[Open PDF]({prefix}pdf/{pdf})",
+        f"<a href=\"{prefix}pdf/{pdf}\" download>{download_label}</a>",
+    ]
+
+    simulator_url = paper.get("simulator_url", "").strip()
+    if simulator_url:
+        links.insert(0, f"[Open Simulator]({prefix}{simulator_url})")
+
+    arxiv_url = paper.get("arxiv_url", "").strip()
+    if arxiv_url:
+        links.append(f"[arXiv]({arxiv_url})")
+
+    return links
+
+
 def paper_page(paper: dict) -> str:
     slug = paper["slug"]
     title = paper["title"]
     summary = paper["summary"]
     pdf = paper["pdf"]
-    arxiv_url = paper.get("arxiv_url", "").strip()
     themes = paper.get("themes", [])
     date_line = f"**Date:** {paper_date_label(paper)}"
-    links = [
-        f"[Open PDF](../pdf/{pdf})",
-        f"<a href=\"../pdf/{pdf}\" download>Download PDF</a>",
-    ]
-    if arxiv_url:
-        links.append(f"[arXiv]({arxiv_url})")
+    links = action_links(paper, prefix="../", download_label="Download PDF")
     links_line = " | ".join(links)
+    simulator_url = paper.get("simulator_url", "").strip()
+    simulator_preview = paper.get("simulator_preview", "").strip()
+    simulator_preview_block = ""
+    if simulator_url and simulator_preview:
+        simulator_preview_block = f"""
+## Simulator
+
+[![Simulator preview](../{simulator_preview}){{ .simulator-preview }}](../{simulator_url})
+"""
 
     return f"""# {title}
 
@@ -141,6 +162,8 @@ def paper_page(paper: dict) -> str:
 {chips(themes, prefix="../")}
 
 {links_line}
+
+{simulator_preview_block}
 
 ![First page preview](../assets/thumbs/{slug}.png){{ .paper-thumb-large }}
 
@@ -327,16 +350,8 @@ def theme_page(item: dict) -> str:
         title = paper["title"]
         slug = paper["slug"]
         summary = paper["summary"]
-        pdf = paper["pdf"]
-        arxiv_url = paper.get("arxiv_url", "").strip()
         themes = paper.get("themes", [])
-        links = [
-            f"[Open Page](../papers/{slug}.md)",
-            f"[Open PDF](../pdf/{pdf})",
-            f"<a href=\"../pdf/{pdf}\" download>Download</a>",
-        ]
-        if arxiv_url:
-            links.append(f"[arXiv]({arxiv_url})")
+        links = [f"[Open Page](../papers/{slug}.md)", *action_links(paper, prefix="../")]
         lines.extend(
             [
                 f"- **[{title}](../papers/{slug}.md)**",
@@ -439,16 +454,8 @@ def home_page(site: dict, papers: list[dict]) -> str:
         slug = paper["slug"]
         title = paper["title"]
         summary = paper["summary"]
-        pdf = paper["pdf"]
-        arxiv_url = paper.get("arxiv_url", "").strip()
         themes = paper.get("themes", [])
-        links = [
-            f"[Open Page](papers/{slug}.md)",
-            f"[Open PDF](pdf/{pdf})",
-            f"<a href=\"pdf/{pdf}\" download>Download</a>",
-        ]
-        if arxiv_url:
-            links.append(f"[arXiv]({arxiv_url})")
+        links = [f"[Open Page](papers/{slug}.md)", *action_links(paper)]
 
         lines.extend(
             [

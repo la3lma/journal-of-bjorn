@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Multi-Cloud MCNF Cost Optimizer</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Multi-Cloud MCNF Cost Optimizer</h1>
+        <p class="subtitle">A story about why cheap storage, cheap compute, and cheap transfer are not the same thing as a cheap workflow.</p>
+      </div>
+      <div class="snapshot">
+        <span>Illustrative snapshot</span>
+        <strong id="snapshotDate">2026-06-24</strong>
+      </div>
+    </header>
+
+    <main class="story-shell">
+      <section class="panel story-panel" aria-labelledby="story-heading">
+        <div class="story-copy">
+          <p class="eyebrow">The scenario</p>
+          <h2 id="story-heading">An AI workload needs a training run.</h2>
+          <p>
+            Raw datasets and telemetry have to live somewhere, GPU training has to run
+            somewhere, and the resulting artifacts have to be stored somewhere. Each
+            innocent choice moves money between storage, transfer, and compute.
+          </p>
+          <div id="workloadSummary" class="workload-summary"></div>
+        </div>
+
+        <div class="setup-inline" aria-labelledby="setup-heading">
+          <div class="panel-header">
+          <div>
+            <p class="eyebrow">Step 1</p>
+            <h2 id="setup-heading">Set the batch size</h2>
+          </div>
+          </div>
+
+          <div class="scenario-buttons" role="group" aria-label="Scenario size">
+            <button type="button" class="scenario active" data-size="standard">Standard</button>
+            <button type="button" class="scenario" data-size="heavy">Heavy raw</button>
+            <button type="button" class="scenario" data-size="checkpoint">Checkpoint-heavy</button>
+          </div>
+
+          <div class="simple-controls">
+            <label>
+              <span>Raw data</span>
+              <strong><output id="rawTbValue">50 TB</output></strong>
+              <input id="rawTb" type="range" min="1" max="150" step="1">
+            </label>
+            <label>
+              <span>GPU hours</span>
+              <strong><output id="computeHoursValue">1200</output></strong>
+              <input id="computeHours" type="range" min="100" max="2400" step="50">
+            </label>
+            <label>
+              <span>Output artifacts</span>
+              <strong><output id="outputTbValue">0.75 TB</output></strong>
+              <input id="outputTb" type="range" min="0.1" max="25" step="0.05">
+            </label>
+          </div>
+          <p class="small-note">Fixed for this demo: raw data retained for 1 month; output artifacts retained for 6 months.</p>
+        </div>
+      </section>
+
+      <section class="panel strategies-panel" aria-labelledby="strategies-heading">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Step 2</p>
+            <h2 id="strategies-heading">Try plausible allocation stories</h2>
+          </div>
+          <span id="feasibleCount" class="pill">0 feasible routes</span>
+        </div>
+        <div id="strategyCards" class="strategy-cards"></div>
+        <div class="custom-route" aria-label="Create your own route">
+          <div>
+            <p class="eyebrow">Or create your own</p>
+            <h3>Choose each placement</h3>
+          </div>
+          <div class="custom-route-controls">
+            <label>
+              <span>Raw data</span>
+              <select id="customRawSelect"></select>
+            </label>
+            <label>
+              <span>GPU compute</span>
+              <select id="customComputeSelect"></select>
+            </label>
+            <label>
+              <span>Artifacts</span>
+              <select id="customOutputSelect"></select>
+            </label>
+          </div>
+          <p id="customRouteSummary" class="small-note"></p>
+        </div>
+      </section>
+
+      <section class="panel graph-panel" aria-labelledby="graph-heading">
+        <div class="panel-header">
+          <div>
+            <p id="selectedEyebrow" class="eyebrow">Step 3</p>
+            <h2 id="graph-heading"><span id="selectedHeading">Watch the money move</span></h2>
+          </div>
+          <strong id="selectedTotal" class="total-readout">$0</strong>
+        </div>
+        <p id="selectedNarrative" class="selected-narrative"></p>
+        <div id="flowGraph" class="flow-graph" aria-label="Workflow flow graph"></div>
+        <div id="costBars" class="cost-bars"></div>
+      </section>
+
+      <section class="panel comparison-panel" aria-labelledby="comparison-heading">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Step 4</p>
+            <h2 id="comparison-heading">The punchline</h2>
+          </div>
+        </div>
+        <p id="insightText" class="insight-text"></p>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Story</th>
+                <th>Raw</th>
+                <th>Compute</th>
+                <th>Output</th>
+                <th>Total</th>
+                <th>Vs best</th>
+              </tr>
+            </thead>
+            <tbody id="comparisonTable"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel ranked-panel" aria-labelledby="ranked-heading">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Explore</p>
+            <h2 id="ranked-heading">All ranked routes</h2>
+          </div>
+          <span class="muted">Click any row to load it above</span>
+        </div>
+        <div class="ranked-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Raw</th>
+                <th>Compute</th>
+                <th>Output</th>
+                <th>Total</th>
+              </tr>
+            </thead>
+            <tbody id="rankedRouteTable"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel price-panel" aria-labelledby="prices-heading">
+        <details>
+          <summary>
+            <span>
+              <span class="eyebrow">Advanced</span>
+              <strong id="prices-heading">Editable price snapshot</strong>
+            </span>
+          </summary>
+          <p class="note">
+            Seed values are a dated illustrative snapshot for model exploration, not a quote.
+            Refresh from official provider pages before making business decisions.
+          </p>
+          <div id="priceEditor" class="price-editor"></div>
+        </details>
+      </section>
+
+      <section class="panel caveat-panel" aria-labelledby="caveats-heading">
+        <h2 id="caveats-heading">Caveats And Sources</h2>
+        <p>
+          This demo runs entirely in the browser. It does not fetch live prices, call cloud APIs,
+          or optimize commitments, taxes, spot interruptions, capacity reservations, private
+          discounts, or operation charges. Cloudflare R2 is modeled as object storage with free
+          outbound transfer from R2; Cloudflare Workers and Workers AI compute are outside this
+          first model. Telenor AI Factory is listed as a relevant Nordic sovereign AI-cloud
+          provider, but public pricing was not found, so it is not included as a priced route.
+        </p>
+        <ul id="sourceList"></ul>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

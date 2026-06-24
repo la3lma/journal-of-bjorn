@@ -322,6 +322,17 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     [Open Page](papers/distributed-acoustic-sensing.md) · [Open PDF](pdf/distributed-acoustic-sensing.pdf) · <a href="pdf/distributed-acoustic-sensing.pdf" download>Download</a>
 
+-   [![Multi-Cloud MCNF Cost Optimizer preview](assets/thumbs/multi-cloud-mcnf-cost-optimizer.png)](papers/multi-cloud-mcnf-cost-optimizer.md)
+    **[Multi-Cloud MCNF Cost Optimizer](papers/multi-cloud-mcnf-cost-optimizer.md)**
+
+    A mathematical and practical exploration of multi-cloud cost optimization for heavy AI and data-processing workloads, framing storage, transfer, compute, and artifact retention as minimum-cost network flow and mixed-integer placement problems.
+
+    *Date: 2026-06-24*
+
+    [Cloud Cost Engineering](themes/cloud-cost-engineering.md){ .theme-chip } [Multi-Cloud](themes/multi-cloud.md){ .theme-chip } [Optimization](themes/optimization.md){ .theme-chip } [AI Infrastructure](themes/ai-infrastructure.md){ .theme-chip } [Mathematical Modeling](themes/mathematical-modeling.md){ .theme-chip }
+
+    [Open Page](papers/multi-cloud-mcnf-cost-optimizer.md) · [Open Simulator](apps/multi-cloud-mcnf-cost-optimizer/index.html) · [Open PDF](pdf/multi-cloud-MCNF-cost-optimizer.pdf) · <a href="pdf/multi-cloud-MCNF-cost-optimizer.pdf" download>Download</a>
+
 </div>
 
 ## Browse by Theme

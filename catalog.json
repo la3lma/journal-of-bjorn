@@ -598,6 +598,27 @@
       "date": "2026-06-21",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2026-06-21"
+    },
+    {
+      "slug": "multi-cloud-mcnf-cost-optimizer",
+      "title": "Multi-Cloud MCNF Cost Optimizer",
+      "report_dir": "multi-cloud-MCNF-cost-optimizer",
+      "pdf": "multi-cloud-MCNF-cost-optimizer.pdf",
+      "simulator_url": "apps/multi-cloud-mcnf-cost-optimizer/index.html",
+      "simulator_preview": "assets/simulator-previews/multi-cloud-mcnf-cost-optimizer.jpg",
+      "summary": "A mathematical and practical exploration of multi-cloud cost optimization for heavy AI and data-processing workloads, framing storage, transfer, compute, and artifact retention as minimum-cost network flow and mixed-integer placement problems.",
+      "themes": [
+        "Cloud Cost Engineering",
+        "Multi-Cloud",
+        "Optimization",
+        "AI Infrastructure",
+        "Mathematical Modeling"
+      ],
+      "order": 320,
+      "published": true,
+      "date": "2026-06-24",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-06-24-17:13:34-CEST-839de3c-main"
     }
   ]
 }
