@@ -371,6 +371,7 @@ function withRankedRoute(rank, route) {
 
 function buildStories(routes) {
   const best = routes[0];
+  const worst = routes[routes.length - 1];
   const cheapestStorage = cheapestStorageKey("raw");
   const cheapestOutputStorage = cheapestStorageKey("output");
   const cheapestCompute = cheapestFeasibleComputeKey();
@@ -416,6 +417,14 @@ function buildStories(routes) {
       `${locationShort(state.customRoute.rawKey)} -> ${locationShort(state.customRoute.computeKey)} -> ${locationShort(state.customRoute.outputKey)}`,
       "This is the route you assembled by choosing where raw data lives, where GPU compute runs, and where artifacts are retained. Its rank is computed against the same full route list as the preset stories.",
       customRoute
+    ),
+    withStory(
+      "worst",
+      "Worst available",
+      "The most expensive feasible route.",
+      "This is the deliberately bad baseline: every placement is still feasible, but the full storage, transfer, and compute chain is as expensive as this snapshot can make it.",
+      worst,
+      "worst"
     ),
     withStory(
       "optimizer",

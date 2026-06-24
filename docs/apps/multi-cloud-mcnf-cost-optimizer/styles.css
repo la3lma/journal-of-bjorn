@@ -278,7 +278,7 @@ select {
 
 .strategy-cards {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 10px;
 }
 
@@ -338,6 +338,11 @@ select {
 .strategy-card.winner em {
   color: var(--green);
   background: #edf8f4;
+}
+
+.strategy-card.worst em {
+  color: #9c2b1f;
+  background: #fff1ed;
 }
 
 .custom-route {
