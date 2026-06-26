@@ -619,6 +619,25 @@
       "date": "2026-06-24",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2026-06-24-17:13:34-CEST-839de3c-main"
+    },
+    {
+      "slug": "cheap-multistatic-radar",
+      "title": "Cheap Multistatic Radar: Passive Illumination, Adaptive Cancellation, and Low-Cost Coherent Nodes",
+      "report_dir": "cheap-multistatic-radar",
+      "pdf": "cheap-multistatic-radar.pdf",
+      "summary": "A systems-design concept for a low-cost passive/multistatic radar network using broadcast, cellular, or other illuminators of opportunity, coherent receiver nodes, streaming adaptive cancellation, delay-Doppler processing, observation vectors, simulation-first prototyping, and a Norway/Europe capability landscape for possible civilian and academic contributors.",
+      "themes": [
+        "Systems Design",
+        "Defence Innovation",
+        "Radar",
+        "Sensor Fusion",
+        "Drones"
+      ],
+      "order": 330,
+      "published": true,
+      "date": "2026-06-26",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-06-26-19:11:26-CEST-11bd71f-main"
     }
   ]
 }
