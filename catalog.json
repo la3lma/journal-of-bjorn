@@ -638,6 +638,25 @@
       "date": "2026-06-26",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2026-06-26-19:11:26-CEST-11bd71f-main"
+    },
+    {
+      "slug": "nazi-holocaust-murders-by-geography",
+      "title": "Where the Nazis Killed: A Question-and-Answer Examination of the “Not on Home Soil” Thesis",
+      "report_dir": "nazi-holocaust-murders-by-geography",
+      "pdf": "nazi-holocaust-murders-by-geography.pdf",
+      "summary": "A Q&A paper testing the claim that Nazi Germany deliberately placed its industrial murder operations outside the German heartland. Covers all six extermination camps, the “Holocaust by bullets” shooting sites in the occupied East, the euthanasia programme and concentration camps inside Germany, and the deportation routes of German and Western European Jews. Includes a schematic map of major killing sites. All death-toll figures are sourced from the USHMM Holocaust Encyclopedia and standard scholarly works (Hilberg, Snyder, Wachsmann).",
+      "themes": [
+        "History",
+        "Holocaust",
+        "World War II",
+        "Geography",
+        "War Crimes"
+      ],
+      "order": 340,
+      "published": true,
+      "date": "2026-09-23",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-09-23-18:02:22-CEST-d415a9bf-main"
     }
   ]
 }
