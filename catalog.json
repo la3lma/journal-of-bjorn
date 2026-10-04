@@ -657,6 +657,25 @@
       "date": "2026-09-23",
       "date_source": "latex_version_file",
       "date_evidence": "version.tex: 2026-09-23-18:02:22-CEST-d415a9bf-main"
+    },
+    {
+      "slug": "microscope-window-sensor",
+      "title": "Recovery of a Legacy AmScope Microscope Camera",
+      "report_dir": "microscope-window-sensor",
+      "pdf": "microscope-window-sensor.pdf",
+      "summary": "An evidence-driven recovery of a circa-2010 AmScope/Tucsen 10-megapixel USB microscope camera, from Windows protocol analysis to a portable user-space libusb reader, Linux V4L2 integration, full-frame optical capture, color and illumination calibration, and a public Apache-2.0 implementation.",
+      "themes": [
+        "Microscopy",
+        "Reverse Engineering",
+        "Linux",
+        "USB",
+        "Digital Imaging"
+      ],
+      "order": 350,
+      "published": true,
+      "date": "2026-10-04",
+      "date_source": "latex_version_file",
+      "date_evidence": "version.tex: 2026-10-04"
     }
   ]
 }

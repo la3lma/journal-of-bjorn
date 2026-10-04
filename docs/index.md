@@ -344,6 +344,28 @@ One last thing: You might see me toggle between Bjørn and Bjorn. I have no desi
 
     [Open Page](papers/cheap-multistatic-radar.md) · [Open PDF](pdf/cheap-multistatic-radar.pdf) · <a href="pdf/cheap-multistatic-radar.pdf" download>Download</a>
 
+-   [![Where the Nazis Murdered: A Question-and-Answer Examination of the “Not on Home Soil” Thesis preview](assets/thumbs/nazi-holocaust-murders-by-geography.png)](papers/nazi-holocaust-murders-by-geography.md)
+    **[Where the Nazis Murdered: A Question-and-Answer Examination of the “Not on Home Soil” Thesis](papers/nazi-holocaust-murders-by-geography.md)**
+
+    A Q&A paper testing the claim that Nazi Germany deliberately placed its industrial murder operations outside the German heartland. Covers all six extermination camps, the “Holocaust by bullets” shooting sites in the occupied East, the euthanasia programme and concentration camps inside Germany, and the deportation routes of German and Western European Jews. Includes a schematic map of major killing sites. All death-toll figures are sourced from the USHMM Holocaust Encyclopedia and standard scholarly works (Hilberg, Snyder, Wachsmann).
+
+    *Date: 2026-09-23*
+
+    [History](themes/history.md){ .theme-chip } [Holocaust](themes/holocaust.md){ .theme-chip } [World War II](themes/world-war-ii.md){ .theme-chip } [Geography](themes/geography.md){ .theme-chip } [War Crimes](themes/war-crimes.md){ .theme-chip }
+
+    [Open Page](papers/nazi-holocaust-murders-by-geography.md) · [Open PDF](pdf/nazi-holocaust-murders-by-geography.pdf) · <a href="pdf/nazi-holocaust-murders-by-geography.pdf" download>Download</a>
+
+-   [![Recovery of a Legacy AmScope Microscope Camera preview](assets/thumbs/microscope-window-sensor.png)](papers/microscope-window-sensor.md)
+    **[Recovery of a Legacy AmScope Microscope Camera](papers/microscope-window-sensor.md)**
+
+    An evidence-driven recovery of a circa-2010 AmScope/Tucsen 10-megapixel USB microscope camera, from Windows protocol analysis to a portable user-space libusb reader, Linux V4L2 integration, full-frame optical capture, color and illumination calibration, and a public Apache-2.0 implementation.
+
+    *Date: 2026-10-04*
+
+    [Microscopy](themes/microscopy.md){ .theme-chip } [Reverse Engineering](themes/reverse-engineering.md){ .theme-chip } [Linux](themes/linux.md){ .theme-chip } [USB](themes/usb.md){ .theme-chip } [Digital Imaging](themes/digital-imaging.md){ .theme-chip }
+
+    [Open Page](papers/microscope-window-sensor.md) · [Open PDF](pdf/microscope-window-sensor.pdf) · <a href="pdf/microscope-window-sensor.pdf" download>Download</a>
+
 </div>
 
 ## Browse by Theme
